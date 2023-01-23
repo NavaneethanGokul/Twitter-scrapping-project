@@ -93,13 +93,19 @@ E --> F[Upload data]
 F --> G[Download csv file]
 F --> H[Download json file]
 ```
+---
+## Instructions
+Kindly follow the below instructions for using the twitter scrapping webpage.
+1. Download the Twitter scrapping.py to your local machine.
+2. Navigate to the downloaded page, and right-click on the screen, and select 'Open in Terminal'
+3. Once the terminal window opens type the following command.
 
+```powershell
+streamlit run "Twitter scraping.py"
+```
+---
 
-
-
-
-
-
+💙💙💙Thank you for reading this!💙💙💙
 
 
 
